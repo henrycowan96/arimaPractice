@@ -1,4 +1,6 @@
-pandas
-numpy==1.21.6
-pmdarima==2.0.3
 streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+pmdarima
